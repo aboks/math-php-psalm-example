@@ -1,0 +1,9 @@
+{
+    "name": "test/test",
+    "require": {
+        "markrogoyski/math-php": "^2.8"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^5.11"
+    }
+}
